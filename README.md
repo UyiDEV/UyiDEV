@@ -11,4 +11,4 @@ I'm a Cloud/DevOps Engineer, Content Creator, and Community Engineer. I'm passio
 - 🌱 I’m currently learning Cloud services and DevOps.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer or DevOps Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing [osakueomoruyi@gmail.com](osakueomoruyi@gamil.com).
+- 📫 You can [view my resume](#) and contact me by emailing [osakueomoruyi@gmail.com](<a href="mailto:osakueomoruyi@gamil.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>).
