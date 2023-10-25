@@ -8,7 +8,7 @@ I'm a Software Engineer, Cloud/DevOps and SRE. I'm passionate about sharing know
 ---
 
 **Here's a quick summary about me**:
-- 🌱 I’m currently learning Cloud services and DevOps.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I’m currently looking for internship opportunities in Cloud and DevOps.
+- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer or DevOps Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing me.
